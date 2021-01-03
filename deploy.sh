@@ -1,10 +1,3 @@
-# Go to public folder
-rm -r ~/Github/johannesh83.github.io/*
-cp -r ~/Github/johannesh83.github.io-hugo/public/ ~/Github/johannesh83.github.io/
-cp -r ~/Github/CNAME/ ~/Github/johannesh83.github.io/
-
-cd ~/Github/johannesh83.github.io/
-
 #!/bin/sh
 
 # If a command fails then the deploy stops
