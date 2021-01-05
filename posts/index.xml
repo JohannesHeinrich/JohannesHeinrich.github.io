@@ -1,55 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Johannes Heinrich</title>
-    <link>http://www.johannesheinrich.de/posts/</link>
-    <description>Recent content in Posts on Johannes Heinrich</description>
+    <title>Posts on johannes-heinrich.de</title>
+    <link>https://www.johannesheinrich.de/posts/</link>
+    <description>Recent content in Posts on johannes-heinrich.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.johannesheinrich.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesheinrich.de/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Long-distance Triathlon &amp; The Bike Split - &#34;Pacing for competitive Age-Groupers and for Pros!&#34;</title>
-      <link>http://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-bike-split-pacing/</link>
+      <title>Long-distance Triathlon &amp; The Bike Split - Pacing for competitive Age-Groupers and for Pros!</title>
+      <link>https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-bike-split-pacing/</guid>
-      <description>It is possible to predict your bike split for a long-distance triathlon like at an Ironman. With the right tooling your pacing strategy will be shifted to a completely new level.</description>
+      <guid>https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; &lt;em&gt;Can I bike faster than originally planned? Will it be the first time I am not suffering at the Marathon?&lt;/em&gt;
+&lt;strong&gt;A:&lt;/strong&gt; &lt;em&gt;To be honest. I don´t know!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But what I certainly know: It is possible to predict your bike split for a long-distance triathlon like at an Ironman. With the right tooling your pacing strategy will be shifted to a completely new level especially when those classical approaches like results from the past, average speed or your gut feeling is throwing more questions than answers.&lt;/p&gt;
+&lt;p&gt;Based on power data Jürgen Pansy developed, through meticulous work, a nice toolkit. I can´t hardly remember when I saw such a well thought and detailed spreadsheet. Great stuff. Awesome work. Thanks again.&lt;/p&gt;
+&lt;p&gt;Back in 2015 I finally applied my successful race strategy in one of the most challenging bike races through Europes alps: The Ötztaler Radmarathon. It helped me to predict my split times quite well and accurate for those 238 kilometers with its suffering 4 climbs and 5500 meter of altitude.
+In 2019 I finished my first Ironman and months later I stumpled again over that piece of knowledge and expertise. I took the chance, utilized it and made it generic adjustable for any kind of long distance racing especially for triathlon or Ironman.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Die erste und einzigartige 259-Km-Herzrunde rund um München!</title>
-      <link>http://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</link>
+      <link>https://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</guid>
-      <description>I love Munich Brevet! Auf 259 Kilometern geht es einmal gegen den Uhrzeigersinn rund um die schönste Stadt nördlich Italiens.</description>
+      <guid>https://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</guid>
+      <description>&lt;p&gt;Wenn auch kurzfristig angesetzt, so haben wir alles mit viel Liebe – zum Detail – und von langer Hand geplant: den ersten und einzigartigen &lt;strong&gt;„I love Munich Brevet!“&lt;/strong&gt;. Auf 259 Kilometern geht es einmal gegen den Uhrzeigersinn rund um die schönste Stadt nördlich Italiens. Es erwarten uns keine Pässe oder kilometerlangen Anstiege, sondern jede Menge Cafés und Labemöglichkeiten. Gleichwohl wir dafür wohl nicht viel Zeit haben werden – time flys, und mit ihr das Tageslicht.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Golden Cheetah  Garmin Connect - &#34;Download, archive, cloud-backup and auto-import your activities!</title>
-      <link>http://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</link>
+      <title>Golden Cheetah  Garmin Connect - Download, archive, cloud-backup and auto-import your activities!</title>
+      <link>https://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</guid>
-      <description>You are a runner, cyclist or triathlete? You love Golden Cheetah? You track your activities with Garmin devices? You want to download all of them from Garmin Connect? You want to archive, cloud-backup and import automatically into Golden Cheetah?</description>
+      <guid>https://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</guid>
+      <description>&lt;p&gt;You are a runner, cyclist or triathlete? You love Golden Cheetah? You track your activities with Garmin devices? You want to download all of them from Garmin Connect? You want to archive, cloud-backup and import automatically into Golden Cheetah? Alright, where is the problem?!? Rise a feature request and ask for new Golden Cheetah functionality! But exactly this is easier said than done:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Garmin charges an expensive one-time administrative fee to cover their extensive engineering and server support they require for running the Connect program.&lt;/li&gt;
+&lt;li&gt;Golden Cheetah is an open source application and there might be no chance of any payment to Garmin for its use at all.&lt;/li&gt;
+&lt;li&gt;As Garmin does also not offer alternatives the chances for a new Golden Cheetah feature are really low.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;But there are tons of alternatives and workarounds. Here is mine.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Ötztaler Radmarathon – “Mit welcher Zeit kann ich beim Ötzi rechnen?”</title>
-      <link>http://www.johannesheinrich.de/posts/oetztaler-radmarathon-mit-welcher-zeit-kann-ich-beim-oetzi-rechnen/</link>
+      <title>Ötztaler Radmarathon – Mit welcher Zeit kann ich beim Ötzi rechnen?</title>
+      <link>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/oetztaler-radmarathon-mit-welcher-zeit-kann-ich-beim-oetzi-rechnen/</guid>
-      <description>Mit dem richtigen Pacing Tool ist eine sehr genaue Vorhersage für den Ötztaler Radmarathon möglich. Das Tool. Meine Erfahrung. Meine Empfehlung.</description>
+      <guid>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Wie wird gleich nochmal das Wetter? Ich hoffe doch trocken und nicht zu viel Sonne. Regen? Schnee? Gabs ja alles schon in den letzten Jahren. Unfall-, sturzfrei und Hauptsache in Ziel kommen! Aber: Sub9? Wär geil! Sub10? Oder doch „nur“ Sub11?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sind es nicht immer die gleichen Antworten die gut 4000 verrückte Radmarathonisti Ende August suchen? Bei ersteren sind sich alle irgendwann einig – spätestens am Start. Letztere werden erst am Renntag spät nachmittags beantwortet.&lt;/p&gt;
+&lt;p&gt;Mit dem richtigen Pacing Tool lässt sich diese Diskussion auf ein ganz anderes Niveau heben. Vor allem dann, wenn dir klassische Ansätze, wie simple Vergleiche von Vorjahresleistungen und etwas Bauchgefühl am Ende nicht aussagekräftig genug sind.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Ötztaler Radmarathon – &#34;Die Strecke im Detail!&#34;</title>
-      <link>http://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</link>
+      <title>Ötztaler Radmarathon – Die Strecke im Detail!</title>
+      <link>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</link>
       <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</guid>
-      <description>Der Ötztaler: 5500 Höhenmeter, 238 Kilometer, 4 Alpenpässe, 4 Klimazonen, Kühtai, Brenner, Jaufenpass, Timmelsjoch – alles an einem einzigen Tag. Alles für einen Traum!</description>
+      <guid>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</guid>
+      <description>&lt;p&gt;Der Ötztaler Radmarathon: &lt;strong&gt;5500 Höhenmeter, 238 Kilometer, 4 Alpenpässe&lt;/strong&gt;, 4 Klimazonen, Kühtai, Brenner, Jaufenpass, Timmelsjoch – alles an einem einzigen Tag. Alles für einen Traum!&lt;/p&gt;</description>
     </item>
     
   </channel>

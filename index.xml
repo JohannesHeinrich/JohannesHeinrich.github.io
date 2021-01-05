@@ -1,72 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Johannes Heinrich on Johannes Heinrich</title>
-    <link>http://www.johannesheinrich.de/</link>
-    <description>Recent content in Johannes Heinrich on Johannes Heinrich</description>
+    <title>johannes-heinrich.de</title>
+    <link>https://www.johannesheinrich.de/</link>
+    <description>Recent content on johannes-heinrich.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.johannesheinrich.de/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesheinrich.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long-distance Triathlon &amp; The Bike Split - Pacing for competitive Age-Groupers and for Pros!</title>
+      <link>https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; &lt;em&gt;Can I bike faster than originally planned? Will it be the first time I am not suffering at the Marathon?&lt;/em&gt;
+&lt;strong&gt;A:&lt;/strong&gt; &lt;em&gt;To be honest. I don´t know!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But what I certainly know: It is possible to predict your bike split for a long-distance triathlon like at an Ironman. With the right tooling your pacing strategy will be shifted to a completely new level especially when those classical approaches like results from the past, average speed or your gut feeling is throwing more questions than answers.&lt;/p&gt;
+&lt;p&gt;Based on power data Jürgen Pansy developed, through meticulous work, a nice toolkit. I can´t hardly remember when I saw such a well thought and detailed spreadsheet. Great stuff. Awesome work. Thanks again.&lt;/p&gt;
+&lt;p&gt;Back in 2015 I finally applied my successful race strategy in one of the most challenging bike races through Europes alps: The Ötztaler Radmarathon. It helped me to predict my split times quite well and accurate for those 238 kilometers with its suffering 4 climbs and 5500 meter of altitude.
+In 2019 I finished my first Ironman and months later I stumpled again over that piece of knowledge and expertise. I took the chance, utilized it and made it generic adjustable for any kind of long distance racing especially for triathlon or Ironman.&lt;/p&gt;</description>
+    </item>
     
     <item>
-      <title>Datenschutzerklärung</title>
-      <link>http://www.johannesheinrich.de/datenschutzerklaerung/</link>
-      <pubDate>Thu, 31 Dec 2020 10:23:48 +0100</pubDate>
+      <title>Home</title>
+      <link>https://www.johannesheinrich.de/home/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/datenschutzerklaerung/</guid>
-      <description>&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;
-&lt;h2 id=&#34;datenschutz&#34;&gt;Datenschutz&lt;/h2&gt;
-&lt;p&gt;Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
-&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
-&lt;p&gt;Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Diese Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen. Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.&lt;/p&gt;
-</description>
+      <guid>https://www.johannesheinrich.de/home/</guid>
+      <description>Aloha! endurance sportsman, ambitious triathlete, addicted to structured training, recovering with good coffee &amp;amp; homemade cake, proudly sponsored &amp;amp; coached by myself
+&amp;ldquo;High Five!&amp;rdquo;
+Finished! Look back to see how far you’ve come. 2020 Ötztaler Social Radmarathon 2019 IRONMAN 140.6 Italy Emilia-Romagna, Mitteldistanz City Triathlon Frankfurt, Mitteldistanz Chtriman Gravelines, Duathlon Hilpoltstein, Halbmarathon Hilpoltstein 2018 Challenge Prague, TOUR Transalp, Trimotion 111 Saalfelden, Wings for Life World Run München, BER Airport Night Run 2017 King of the Lake am Attersee, „I love Munich Brevet!</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>http://www.johannesheinrich.de/impressum/</link>
-      <pubDate>Thu, 31 Dec 2020 10:23:48 +0100</pubDate>
+      <link>https://www.johannesheinrich.de/imprint/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/impressum/</guid>
-      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;
-&lt;p&gt;Angaben gemäß § 5 TMG: Johannes Heinrich, Neudorf 53, 95197 Schauenstein, &lt;a href=&#34;mailto:kontakt@johannesheinrich.de&#34;&gt;kontakt@johannesheinrich.de&lt;/a&gt;
-Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Johannes Heinrich, Neudorf 53, 95197 Schauenstein&lt;/p&gt;
-&lt;h1 id=&#34;haftungsausschluss-disclaimer&#34;&gt;Haftungsausschluss (Disclaimer)&lt;/h1&gt;
-&lt;h2 id=&#34;haftung-für-inhalte&#34;&gt;Haftung für Inhalte&lt;/h2&gt;
-&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
-&lt;h2 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h2&gt;
-&lt;p&gt;Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
-&lt;h2 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h2&gt;
-&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
-</description>
+      <guid>https://www.johannesheinrich.de/imprint/</guid>
+      <description>Angaben gemäß § 5 TMG: Johannes Heinrich, Neudorf 53, 95197 Schauenstein, kontakt@johannesheinrich.de Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Johannes Heinrich, Neudorf 53, 95197 Schauenstein
+Haftungsausschluss (Disclaimer) Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
     </item>
     
     <item>
-      <title>home</title>
-      <link>http://www.johannesheinrich.de/home/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <title>2. Challenge Prag 2018</title>
+      <link>https://www.johannesheinrich.de/photos/2018-challenge-prague/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/home/</guid>
-      <description>&lt;blockquote&gt;
-&lt;h2 id=&#34;look-back-to-see-how-far-youve-come-finished&#34;&gt;Look back to see how far you’ve come. Finished!&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;2020&lt;/strong&gt; Ötztaler Social Radmarathon &lt;strong&gt;2019&lt;/strong&gt; IRONMAN 140.6 Italy Emilia-Romagna, Mitteldistanz City Triathlon Frankfurt, Mitteldistanz Chtriman Gravelines, Duathlon Hilpoltstein, Halbmarathon Hilpoltstein &lt;strong&gt;2018&lt;/strong&gt; Challenge Prague, TOUR Transalp, Trimotion 111 Saalfelden, Wings for Life World Run München, BER Airport Night Run &lt;strong&gt;2017&lt;/strong&gt; King of the Lake am Attersee, „I love Munich Brevet!“ 263km, Challenge Prague, B2Run München, Schlosstriathlon Moritzburg &lt;strong&gt;2016&lt;/strong&gt; King of the Lake am Attersee, Ironman 70.3 Zell am See, Giro Delle Dolomiti, Triathlon Hof, B2Run München, Stadtlauf München, Duathlon Krailling, Duathlon Hilpoltstein, Osterlauf Lohhof &lt;strong&gt;2015&lt;/strong&gt; Ötztaler Radmarathon, Frankenwald Radmarathon, B2Run München, Schwalbe TOUR Transalp &lt;strong&gt;2014&lt;/strong&gt; Eddy Merckx Classics, Ötztaler Radmarathon, Engadin Radmarathon, Maratona dles Dolomites, Amadé Radmarathon &lt;strong&gt;2013&lt;/strong&gt; Ötztaler Radmarathon, Arber Radmarathon, B2Run München, Stadttriathlon Erding &lt;strong&gt;2012&lt;/strong&gt; Arber Radmarathon, Stadttriathlon Erding, B2Run München &lt;strong&gt;2011&lt;/strong&gt; B2Run München &lt;strong&gt;2009&lt;/strong&gt; B2Run München &lt;strong&gt;2008&lt;/strong&gt; Triathlon Hof &lt;strong&gt;2007&lt;/strong&gt; Triathlon Hof&lt;/p&gt;
-&lt;h2 id=&#34;enjoyed-the-race-my-records&#34;&gt;Enjoyed the Race. My Records!&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;IRONMAN&lt;/strong&gt; 140.6 Italy Emilia-Romagna ge:nu:ss, &lt;strong&gt;Ötztaler Radmarathon&lt;/strong&gt; 09:32:01, &lt;strong&gt;Triathlon Mitteldistanz&lt;/strong&gt; 1,9km-92km-21,1km 05:03:40, &lt;strong&gt;Halbmarathon&lt;/strong&gt; 01:39:19 im Rahmen des Chtriman Gravelines, &lt;strong&gt;10.000m&lt;/strong&gt; 00:44:44, &lt;strong&gt;Längste Raddistanz&lt;/strong&gt; Die erste und einzigartige 259-Km-Herzrunde rund um München! – „I love Munich Brevet!“&lt;/p&gt;
-&lt;h2 id=&#34;next-challenges&#34;&gt;Next Challenges&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;40km/h&lt;/strong&gt; auf 47km EZF King of the Lake am Attersee&lt;/p&gt;
-&lt;h2 id=&#34;bucketlist&#34;&gt;BucketList&lt;/h2&gt;
-&lt;p&gt;(ohne Wertung) LD Triathlon Alpe d’Huez, Norseman Xtreme Triathlon, TORTOUR 300km+, Allgäu Triathlon Classic, Schliersee Alpentriathlon, Nove Colli, L’Eroica, GutsMuths-Rennsteiglauf 42,2km+…&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>https://www.johannesheinrich.de/photos/2018-challenge-prague/</guid>
+      <description>Bei der zweiten Challenge Prag gibt es nicht viel schön zu reden. Ich bin an den Start gegangen um mein Ziel von weniger als 5 Stunden auf eine Halfironman-Distanz zu knacken. Ganz bewusst wählte ich nochmal dieses Rennen. Die Radstrecke ist relativ schnell und es ist immer ein Vorteil alle Streckenabschnitte zu kennen.</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>http://www.johannesheinrich.de/posts/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <title>16. Schlosstriathlon Moritzburg 2017</title>
+      <link>https://www.johannesheinrich.de/photos/2017-schlosstriathlon-moritburg/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.johannesheinrich.de/posts/</guid>
-      <description></description>
+      <guid>https://www.johannesheinrich.de/photos/2017-schlosstriathlon-moritburg/</guid>
+      <description>Wenn Schlick und Schlamm mit teuren Wetsuits durchwühlt wird trifft Unterarm auf Karpfen und Triathlon auf Barock. Rund ums alte Jagdschloss jagt Anfang Juni eine Horte Triathleten im trüben Moritzburger Schlossgewässer und hüglichen Umland Bestzeiten hinterher. Die leicht verkürzte 70.3 Distanz bringt, zumindest theoretisch, alles mit um schnelle und ordentliche Zeiten zu schießen.</description>
+    </item>
+    
+    <item>
+      <title>Die erste und einzigartige 259-Km-Herzrunde rund um München!</title>
+      <link>https://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/posts/259-km-herzrunde-muenchen/</guid>
+      <description>&lt;p&gt;Wenn auch kurzfristig angesetzt, so haben wir alles mit viel Liebe – zum Detail – und von langer Hand geplant: den ersten und einzigartigen &lt;strong&gt;„I love Munich Brevet!“&lt;/strong&gt;. Auf 259 Kilometern geht es einmal gegen den Uhrzeigersinn rund um die schönste Stadt nördlich Italiens. Es erwarten uns keine Pässe oder kilometerlangen Anstiege, sondern jede Menge Cafés und Labemöglichkeiten. Gleichwohl wir dafür wohl nicht viel Zeit haben werden – time flys, und mit ihr das Tageslicht.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Golden Cheetah  Garmin Connect - Download, archive, cloud-backup and auto-import your activities!</title>
+      <link>https://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/posts/golden-cheetah-garmin-connect-script/</guid>
+      <description>&lt;p&gt;You are a runner, cyclist or triathlete? You love Golden Cheetah? You track your activities with Garmin devices? You want to download all of them from Garmin Connect? You want to archive, cloud-backup and import automatically into Golden Cheetah? Alright, where is the problem?!? Rise a feature request and ask for new Golden Cheetah functionality! But exactly this is easier said than done:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Garmin charges an expensive one-time administrative fee to cover their extensive engineering and server support they require for running the Connect program.&lt;/li&gt;
+&lt;li&gt;Golden Cheetah is an open source application and there might be no chance of any payment to Garmin for its use at all.&lt;/li&gt;
+&lt;li&gt;As Garmin does also not offer alternatives the chances for a new Golden Cheetah feature are really low.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;But there are tons of alternatives and workarounds. Here is mine.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ötztaler Radmarathon – Mit welcher Zeit kann ich beim Ötzi rechnen?</title>
+      <link>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/</link>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Wie wird gleich nochmal das Wetter? Ich hoffe doch trocken und nicht zu viel Sonne. Regen? Schnee? Gabs ja alles schon in den letzten Jahren. Unfall-, sturzfrei und Hauptsache in Ziel kommen! Aber: Sub9? Wär geil! Sub10? Oder doch „nur“ Sub11?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sind es nicht immer die gleichen Antworten die gut 4000 verrückte Radmarathonisti Ende August suchen? Bei ersteren sind sich alle irgendwann einig – spätestens am Start. Letztere werden erst am Renntag spät nachmittags beantwortet.&lt;/p&gt;
+&lt;p&gt;Mit dem richtigen Pacing Tool lässt sich diese Diskussion auf ein ganz anderes Niveau heben. Vor allem dann, wenn dir klassische Ansätze, wie simple Vergleiche von Vorjahresleistungen und etwas Bauchgefühl am Ende nicht aussagekräftig genug sind.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ötztaler Radmarathon – Die Strecke im Detail!</title>
+      <link>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</link>
+      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-strecke-im-detail/</guid>
+      <description>&lt;p&gt;Der Ötztaler Radmarathon: &lt;strong&gt;5500 Höhenmeter, 238 Kilometer, 4 Alpenpässe&lt;/strong&gt;, 4 Klimazonen, Kühtai, Brenner, Jaufenpass, Timmelsjoch – alles an einem einzigen Tag. Alles für einen Traum!&lt;/p&gt;</description>
     </item>
     
   </channel>

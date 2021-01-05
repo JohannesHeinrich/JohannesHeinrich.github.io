@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on johannes-heinrich.de</title>
+    <link>https://www.johannesheinrich.de/photos/</link>
+    <description>Recent content in Photos on johannes-heinrich.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <lastBuildDate>Sat, 28 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesheinrich.de/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2. Challenge Prag 2018</title>
+      <link>https://www.johannesheinrich.de/photos/2018-challenge-prague/</link>
+      <pubDate>Sat, 28 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/photos/2018-challenge-prague/</guid>
+      <description>Bei der zweiten Challenge Prag gibt es nicht viel schön zu reden. Ich bin an den Start gegangen um mein Ziel von weniger als 5 Stunden auf eine Halfironman-Distanz zu knacken. Ganz bewusst wählte ich nochmal dieses Rennen. Die Radstrecke ist relativ schnell und es ist immer ein Vorteil alle Streckenabschnitte zu kennen.</description>
+    </item>
+    
+    <item>
+      <title>16. Schlosstriathlon Moritzburg 2017</title>
+      <link>https://www.johannesheinrich.de/photos/2017-schlosstriathlon-moritburg/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/photos/2017-schlosstriathlon-moritburg/</guid>
+      <description>Wenn Schlick und Schlamm mit teuren Wetsuits durchwühlt wird trifft Unterarm auf Karpfen und Triathlon auf Barock. Rund ums alte Jagdschloss jagt Anfang Juni eine Horte Triathleten im trüben Moritzburger Schlossgewässer und hüglichen Umland Bestzeiten hinterher. Die leicht verkürzte 70.3 Distanz bringt, zumindest theoretisch, alles mit um schnelle und ordentliche Zeiten zu schießen.</description>
+    </item>
+    
+  </channel>
+</rss>

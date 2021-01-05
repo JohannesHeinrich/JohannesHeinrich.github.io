@@ -1,83 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Johannes Heinrich</title>
-    <link>http://www.johannesheinrich.de/tags/</link>
-    <description>Recent content in Tags on Johannes Heinrich</description>
+    <title>Tags on johannes-heinrich.de</title>
+    <link>https://www.johannesheinrich.de/tags/</link>
+    <description>Recent content in Tags on johannes-heinrich.de</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://www.johannesheinrich.de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>259-Km-Herzrunde</title>
-      <link>http://www.johannesheinrich.de/tags/259-km-herzrunde/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/259-km-herzrunde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herzrunde</title>
-      <link>http://www.johannesheinrich.de/tags/herzrunde/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/herzrunde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ILoveMunich</title>
-      <link>http://www.johannesheinrich.de/tags/ilovemunich/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/ilovemunich/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ILoveMunichBrevet</title>
-      <link>http://www.johannesheinrich.de/tags/ilovemunichbrevet/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/ilovemunichbrevet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>München</title>
-      <link>http://www.johannesheinrich.de/tags/m%C3%BCnchen/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/m%C3%BCnchen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GarminConnect</title>
-      <link>http://www.johannesheinrich.de/tags/garminconnect/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/garminconnect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GoldenCheetah</title>
-      <link>http://www.johannesheinrich.de/tags/goldencheetah/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/goldencheetah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ShellScript</title>
-      <link>http://www.johannesheinrich.de/tags/shellscript/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/tags/shellscript/</guid>
-      <description></description>
-    </item>
-    
+    <language>de</language><atom:link href="https://www.johannesheinrich.de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

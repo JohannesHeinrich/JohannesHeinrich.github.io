@@ -1,56 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Johannes Heinrich</title>
-    <link>http://www.johannesheinrich.de/categories/</link>
-    <description>Recent content in Categories on Johannes Heinrich</description>
+    <title>Categories on johannes-heinrich.de</title>
+    <link>https://www.johannesheinrich.de/categories/</link>
+    <description>Recent content in Categories on johannes-heinrich.de</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.johannesheinrich.de/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ironman</title>
-      <link>http://www.johannesheinrich.de/categories/ironman/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/categories/ironman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triathlon</title>
-      <link>http://www.johannesheinrich.de/categories/triathlon/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/categories/triathlon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>259-Km-Herzrunde</title>
-      <link>http://www.johannesheinrich.de/categories/259-km-herzrunde/</link>
-      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/categories/259-km-herzrunde/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scripting</title>
-      <link>http://www.johannesheinrich.de/categories/scripting/</link>
-      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/categories/scripting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ÖtztalerRadmarathon</title>
-      <link>http://www.johannesheinrich.de/categories/%C3%B6tztalerradmarathon/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.johannesheinrich.de/categories/%C3%B6tztalerradmarathon/</guid>
-      <description></description>
-    </item>
-    
+    <language>de</language><atom:link href="https://www.johannesheinrich.de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
