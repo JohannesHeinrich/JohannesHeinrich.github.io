@@ -41,9 +41,9 @@
                 
                 <li><a href="https://www.johannesheinrich.de/" typeof="ListItem">home</a></li>
                 
-                <li><a href="https://www.johannesheinrich.de/finished/" typeof="ListItem">finished</a></li>
-                
                 <li><a href="https://www.johannesheinrich.de/posts/" typeof="ListItem">posts</a></li>
+                
+                <li><a href="https://www.johannesheinrich.de/finished/" typeof="ListItem">#finished</a></li>
                 
             </ul>
           </nav>
@@ -104,82 +104,82 @@ Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>.
 <h4 id="my-shell-script">My shell script</h4>
 <p>Copy content, paste content and save as <strong>sport.sh</strong> file.</p>
 <pre><code>    #################
-    # My parameters #
-    #################
-    # My Garmin Connect username
-    mygarminusername=&quot;USERNAME&quot;
-    # My Garmin Connect password
-    mygarminpassword=&quot;PASSWORD&quot;
-    # My number of past activities to export from Garmin Connect. Hint: Garmin API limit is 1000 max.
-    mynumberofexports=&quot;10&quot;
-    # My GoldenCheetah backup folder
-    mybackupfolder=(~/GoogleDrive/Sport/GoldenCheetah/Backup/)
-    # My Athletelibrary folder
-    myathletelibraryfolder=(~/Documents/GoldenCheetah/AthleteLibrary/Johannes/)
-    # My Garmin Connect export script folder
-    mygarminconnectexportscriptfolder=(~/GoogleDrive/Sport/GoldenCheetah/GarminConnectScript/)
-    # My Garmin Connect exported activity folder
-    mygarminconnectexportsfolder=(~/GoogleDrive/Sport/GoldenCheetah/GarminConnectExports/Johannes/)
-    #########################################
-    # Export activities from Garmin Connect #
-    #########################################
-    python $mygarminconnectexportscriptfolder/gcexport.py -d $mygarminconnectexportsfolder -c &quot;$mynumberofexports&quot; -f original -u --username &quot;$mygarminusername&quot; --password &quot;$mygarminpassword&quot;
-    #####################################################
-    # Cleaning json as not used and required for backup #
-    #####################################################
-    cd $mygarminconnectexportsfolder
-    rm *.json
-    ##############################
-    # Open GoldenCheetah finally #
-    ##############################
-    open -a GoldenCheetah
-    ###################
-    # Action required #
-    ###################
-    echo    Golden Cheeath opens
-    echo    Import in background runs
-    echo    ---------------------------------------
-    echo    ----------- ACTION REQUIRED -----------
-    echo    ---------------------------------------
-    echo    Edit your downloaded activities
-    echo    Save all edited activites
-    echo    Create a backup?
-    ######################
-    # Waiting for answer #
-    ######################
-    read -p &quot;[y] = yes. [n] = no &quot; -n 1 -r
-    echo    # (optional) move to a new line
-    if [[ ! $REPLY =~ ^[Yy]$ ]]
-    then
+	# My parameters #
+	#################
+	# My Garmin Connect username
+	mygarminusername=&quot;USERNAME&quot;
+	# My Garmin Connect password
+	mygarminpassword=&quot;PASSWORD&quot;
+	# My number of past activities to export from Garmin Connect. Hint: Garmin API limit is 1000 max.
+	mynumberofexports=&quot;10&quot;
+	# My GoldenCheetah backup folder
+	mybackupfolder=(~/GoogleDrive/Sport/GoldenCheetah/Backup/)
+	# My Athletelibrary folder
+	myathletelibraryfolder=(~/Documents/GoldenCheetah/AthleteLibrary/Johannes/)
+	# My Garmin Connect export script folder
+	mygarminconnectexportscriptfolder=(~/GoogleDrive/Sport/GoldenCheetah/GarminConnectScript/)
+	# My Garmin Connect exported activity folder
+	mygarminconnectexportsfolder=(~/GoogleDrive/Sport/GoldenCheetah/GarminConnectExports/Johannes/)
+	#########################################
+	# Export activities from Garmin Connect #
+	#########################################
+	python $mygarminconnectexportscriptfolder/gcexport.py -d $mygarminconnectexportsfolder -c &quot;$mynumberofexports&quot; -f original -u --username &quot;$mygarminusername&quot; --password &quot;$mygarminpassword&quot;
+	#####################################################
+	# Cleaning json as not used and required for backup #
+	#####################################################
+	cd $mygarminconnectexportsfolder
+	rm *.json
+	##############################
+	# Open GoldenCheetah finally #
+	##############################
+	open -a GoldenCheetah
+	###################
+	# Action required #
+	###################
+	echo    Golden Cheeath opens
+	echo    Import in background runs
+	echo    ---------------------------------------
+	echo    ----------- ACTION REQUIRED -----------
+	echo    ---------------------------------------
+	echo    Edit your downloaded activities
+	echo    Save all edited activites
+	echo    Create a backup?
+	######################
+	# Waiting for answer #
+	######################
+	read -p &quot;[y] = yes. [n] = no &quot; -n 1 -r
+	echo    # (optional) move to a new line
+	if [[ ! $REPLY =~ ^[Yy]$ ]]
+	then
         [[ &quot;$0&quot; = &quot;$BASH_SOURCE&quot; ]] &amp;&amp; exit 1 || return 1 # handle exits from shell or function but don't exit interactive shell
-    fi
-    ######################
-    # Kill GoldenCheetah #
-    ######################
-    pkill GoldenCheetah
-    ##################
-    # Backup Section #
-    ##################
-    ######################
-    # Grab Date und Year #
-    ######################
-    todaysdate=$(date +%Y%m%d)
-    todaysyear=$(date +%Y)
-    ##############
-    # ZIP backup #
-    ##############
-    # Keep history of 5 backups
-    cd $mybackupfolder
-    ls -dt *.zip | tail -n +5 | xargs rm -rf
-    # Zips entire athleteslibrary folder and backups on daily basis
-    zip -r -9 -x ~/GoogleDrive/Sport/GoldenCheetah/AthleteLibrary/Johannes/cache/\* ~/GoogleDrive/Sport/GoldenCheetah/AthleteLibrary/Johannes/imports/\* -o $mybackupfolder/&quot;$todaysdate&quot;.zip $myathletelibraryfolder
-    ###############################
-    # Archive exported activities #
-    ###############################
-    # Check and create Year Folder
-    mkdir $mygarminconnectexportsfolder/$todaysyear/
-    # move previous files to archive
-    mv $mygarminconnectexportsfolder/*.fit $mygarminconnectexportsfolder/$todaysyear/&lt;/pre&gt;
+	fi
+	######################
+	# Kill GoldenCheetah #
+	######################
+	pkill GoldenCheetah
+	##################
+	# Backup Section #
+	##################
+	######################
+	# Grab Date und Year #
+	######################
+	todaysdate=$(date +%Y%m%d)
+	todaysyear=$(date +%Y)
+	##############
+	# ZIP backup #
+	##############
+	# Keep history of 5 backups
+	cd $mybackupfolder
+	ls -dt *.zip | tail -n +5 | xargs rm -rf
+	# Zips entire athleteslibrary folder and backups on daily basis
+	zip -r -9 -x ~/GoogleDrive/Sport/GoldenCheetah/AthleteLibrary/Johannes/cache/\* ~/GoogleDrive/Sport/GoldenCheetah/AthleteLibrary/Johannes/imports/\* -o $mybackupfolder/&quot;$todaysdate&quot;.zip $myathletelibraryfolder
+	###############################
+	# Archive exported activities #
+	###############################
+	# Check and create Year Folder
+	mkdir $mygarminconnectexportsfolder/$todaysyear/
+	# move previous files to archive
+	mv $mygarminconnectexportsfolder/*.fit $mygarminconnectexportsfolder/$todaysyear/&lt;/pre&gt;
 </code></pre>
 <h4 id="setting-parameters">Setting parameters</h4>
 <ol>
@@ -256,10 +256,9 @@ Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>.
 </center><p>
 
         <div class="footer"><a href="https://www.johannesheinrich.de/" typeof="ListItem">home</a>
-<a href="https://www.johannesheinrich.de/finished/" typeof="ListItem">finished</a>
 <a href="https://www.johannesheinrich.de/posts/" typeof="ListItem">posts</a>
-</div><div style="font-size: 0.75em; float: right;">&copy;&nbsp;Johannes Heinrich&nbsp;2021 <a href="/imprint/">impressum</a>, enabled by <a href="https://gohugo.io/">gohugo.io</a>, <a href="https://github.com/mrmierzejewski/hugo-theme-console/">console&nbsp;theme</a></div>
-
+<a href="https://www.johannesheinrich.de/finished/" typeof="ListItem">#finished</a>
+ | &copy;&nbsp;2021&nbsp;Johannes Heinrich | <a href="/imprint/">impressum</a></div>
     </div>
   </body>
 </html>
