@@ -197,7 +197,31 @@
     
         
         <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/distribution-diagrams/</loc>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://www.johannesheinrich.de/mytrainingplanning/features/distribution-category/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/events/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/load-hr/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/hrrc-w-prime/</loc>
         </url>
         
     
@@ -233,7 +257,31 @@
     
         
         <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/planning-year/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/load-power/</loc>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://www.johannesheinrich.de/mytrainingplanning/features/distribution/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/statistics/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/supported-functions/</loc>
         </url>
         
     
@@ -264,6 +312,18 @@
         
         <url>
             <loc>https://www.johannesheinrich.de/mytrainingplanning/features/timeline-season/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-pacing/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-tests/</loc>
         </url>
         
     

@@ -12,8 +12,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</guid>
-      <description>Automated sync starting from Strava as my data hub Once an activity got uploaded to Strava it gets synced to #mytrainingplaning in an automated fashion. It takes an extra route through Interval.icu nowerdays and gets finally all activities to my database. I don´t have to do nothing more than just ride, swim or run, record it and get it uploaded to Strava.
-Automated renaming at Strava It will also automatically, if wanted and configured, rename all my activities at Strava from the current season, update activity names and/or descriptions back as they fit to #mytrainingplanning planned sessions.</description>
+      <description>Strava as my central Data Hub Once an activity got uploaded to Strava it gets synced to #mytrainingplanning in an automated fashion. It takes an extra route through Interval.icu nowerdays. I have to do nothing more than just ride, swim or run, record and get it uploaded to Strava.
+Automated renaming at Strava If wanted and configured, it will also automatically rename all my current season activities back to Strava, update the activity names and description.</description>
+    </item>
+    
+    <item>
+      <title>Distribution Diagrams</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/distribution-diagrams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/distribution-diagrams/</guid>
+      <description>Several 100% stacked columns diagrams There are several 100% stacked columns diagrams to visualize the distribution per training zone for:
+Heartrate distribution across trained and planned training hours Power Bike distribution across trained and planned training hours Pace Run distribution across trained and planned training hours </description>
     </item>
     
     <item>
@@ -22,7 +32,37 @@ Automated renaming at Strava It will also automatically, if wanted and configure
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/distribution-category/</guid>
-      <description>My training session for biking and running become classified in the training library with good fitting categories like: #5 Speed/Tech Skills or #9 Run off the Bike, they are all listed top right on the picture. Those categories are perfect for running reports on them like: how much time I spent with training in each category. Actually a very good &amp;ldquo;controller&amp;rdquo; if the training happened widely spread according to my strategy and principles.</description>
+      <description>Training sessions for biking and running become classified in the training library with good fitting categories like: #5 Speed/Tech Skills or #9 Run off the Bike. They are all listed top left. Those categories are perfect for running reports like: how much time I spent in each. Actually a very good &amp;ldquo;controller&amp;rdquo; if the training happened widely spread according to my strategy and principles.
+Small side note regarding swimming, as this discipline is listed under #12 Swim.</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/events/</guid>
+      <description>1-12-365 a sheer massiv amount of events should, could and will happen. It has to be structured, otherwise I turn lost in circles. There are some #mytrainingplanning places where different events being maintained to be reused over and over based on needs.
+Google Calendar Integration for Day Events This one is actually a nice und hidden integration into my Google Calendar. All day events I maintain and optionally hashtag in my Google Calendar are showing up automatically in many diagrams and at central planning views.</description>
+    </item>
+    
+    <item>
+      <title>Heartrate Load</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/load-hr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/load-hr/</guid>
+      <description>Heartrate(s) The top line is nothing more than the most recent maximum measured HR in the last 30 days. The dark red line reflects a rolling HR maximum average per training session from the last 30 days including a predition based on already planned training sessions. The dark red line is surfaced with a historical and upcoming trend zone to reflect maximum HR stress. The red line reflects a rolling HR average per training session from the last 30 days including a prediction based on already planned training sessions.</description>
+    </item>
+    
+    <item>
+      <title>Heartrate Recovery - W Prime</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/hrrc-w-prime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/hrrc-w-prime/</guid>
+      <description>W Prime In bordeaux red, the line is my highest calculated W Prime (W’) value from the rolling last 30 days to indicate the level of anaerobic capacity performance.
+Heartrate Recovery HRRc, which is measured during the training session itself is a very old, but golden recovery indicator. It helps me to monitoring training status over longer periods of time. How rapidly my heart rate drops form the given threshold to baseline after hard efforts provides an excellent index about my overall freshness both during workouts and also over longer periods for recovery.</description>
     </item>
     
     <item>
@@ -32,7 +72,7 @@ Automated renaming at Strava It will also automatically, if wanted and configure
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/individual-settings/</guid>
       <description>Statistics Selecting start year &amp;amp; start month to get from there up to 360 days for reports within the statistics displayed. If there is a report relying on a sport specific filtering, this is also choosen from here.
-Settings Training Load - ATL, CTL &amp;amp; TSB You´re in training planning private business or training planning business business now. This means it´s important to understand the basic KPIs behind.
+Settings Training Load - ATL, CTL &amp;amp; TSB I am in training planning private business or training planning business business now. This means it´s important to understand the basic KPIs behind.
 allemagne Good articles to start reading for German speaking athletes:</description>
     </item>
     
@@ -42,8 +82,8 @@ allemagne Good articles to start reading for German speaking athletes:</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/planning-upcoming-days/</guid>
-      <description>After a session is before a session What did I planned to train next now? What´s again the session in detail? Can I get it onto my sports watch?
-I need a simple way to see what´s on air next. It´s enough to get todays training session, but with all details then about pace, wattage, duration, intensity and so on. And if I have one, a Garmin Training ID link, is helpful to get push this training easy to my sports watch not loosing to much time in the Garmin universe.</description>
+      <description>Next 3 upcoming days What do I want to train next now? What´s again the session in detail? Can I get it onto my sports watch?
+I need a simple way to see what´s on #mytrainingplanning air next. It´s enough to get todays training session, but with all details: pace, wattage, duration, intensity and so on. And if I have one, a Garmin Training, it is helpful to push this training easy to my sports watch not loosing to much time in the Garmin universe.</description>
     </item>
     
     <item>
@@ -52,10 +92,31 @@ I need a simple way to see what´s on air next. It´s enough to get todays train
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/planning/</guid>
-      <description>This is the most important area where all the training planning is happening.
-Planning the training sessions Basically the following steps are happening:
-1st) Day Intensity:
-Not all days are equal. I am following a certain training pattern with build and lighter days, I need this small but very important information to start structuring and applying week pattern, which is especially for the longer build periods of the year very handy.</description>
+      <description>This is the most important area where all #mytrainingplanning is happening.
+Planning my training sessions Basically the following steps are happening:
+1st) Day Intensity
+Not all days are equal. I am following a certain training pattern with build and lighter days. I need this small but very important information to start structuring and applying week pattern, which is especially for longer build periods of the year very useful.
+2nd) Planning Training Sessions</description>
+    </item>
+    
+    <item>
+      <title>Planning the Year</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/planning-year/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/planning-year/</guid>
+      <description>A Season Each of my seasons has basically five periods with different lengths. It´s fine for me to set its length based on weeks. (see top left)
+The Weeks Once done with the seasonal periods it becomes more concrete. (see right area) I apply per week a certain focus plus maintain centrally my planned availability per week. This input is used at many other #mytrainingplanning places to support planning and strive for the right focus.</description>
+    </item>
+    
+    <item>
+      <title>Power Load Run &amp; Bike</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/load-power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/load-power/</guid>
+      <description>Run &amp;amp; Bike The following diagram is available for Bike and Run as nowerdays Wattage and Power numbers being recorded for both disciplines.
+Power Load The 1st top section highlights the FTP section: This reflects the lastests results measured through tests and the most plus the recent calculated FTP since the last 30 days. The dark brown line reflects a rolling maximum Power average per training session from the last 30 days including a predition based on already planned training sessions.</description>
     </item>
     
     <item>
@@ -69,12 +130,32 @@ I really need this simple visualisation to have an overview for the upcoming wee
     </item>
     
     <item>
+      <title>Statistics</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/statistics/</guid>
+      <description>When planning a season immediately the need to look things up from the past rised. It helps to learn, adapt and to become a better version of my own. All the mistakes, all the s*** and all the great results from the past are small puzzle pieces and enabler for making the future more shinny than ever.
+I simply pick the year and the month which I wanna look back and its upcoming 12 months being opened.</description>
+    </item>
+    
+    <item>
+      <title>Supported Functions</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/supported-functions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/supported-functions/</guid>
+      <description>Biweekly Intensity Pattern I follow a training approach of build and lighter days. For this reason I developed roughly a handful of biweekly patterns I leverage across a season depending on its period and the required load.
+Weekly Sport Pattern Basically the same as from above applies to the weekly sport pattern. Depending on the needs for different periods from the season I follow and reuse structures from those.</description>
+    </item>
+    
+    <item>
       <title>Swim Planner</title>
       <link>https://www.johannesheinrich.de/mytrainingplanning/features/swim-planner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/swim-planner/</guid>
-      <description>Swimming becomes an individual planning tool As swimming becomes easily rather complex to plan and structure for triathlon training I decided to develop for this discipline an individual planning tool inside #mytrainingplanning. It´s fairly easy to understand: each swim training isn´t just go swimming and you´re done, it´s more. Think of my swim planner like a puzzle maximum up to 5 pieces per each session. Each of those 5 piece can be picked and choosen from the underlaying swim library.</description>
+      <description>Swimming becomes an individual part in #mytrainingplanning As swimming becomes easily rather complex to plan and structure for triathlon training I decided to develop for this discipline an individual tool inside #mytrainingplanning. It´s fairly easy to understand: each swim training isn´t just go swimming and you´re done, it´s more. Think of my swim planner like a puzzle maximum up to 5 pieces per each session. Each of those 5 piece can be picked and choosen from the underlaying swim library.</description>
     </item>
     
     <item>
@@ -104,9 +185,29 @@ The seasonal view is too much when planning concretely the next days or weeks. F
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/timeline-season/</guid>
       <description>This is the seasonal view.
-Beside the planning this is potentially the most important diagram which calculate and display the most important KPIs which are required for individual training planning.
+Beside the planning this is potentially the most important diagram which calculates and displays the most important KPIs which are required for #mytrainingplanning.
 Fitness Charts (1st/third) The classical part of the chart:
-Red line: ATL &amp;ldquo;Acute Training Load assumes fatigue from the most recent training load&amp;rdquo; Blue line: CTL &amp;ldquo;Chronic Training Load reflects fitness which is built over a longer period of time&amp;rdquo; The predictable part of the chart:</description>
+Red line: ATL &amp;ldquo;Acute Training Load assumes fatigue from the most recent training load&amp;rdquo;. Blue line: CTL &amp;ldquo;Chronic Training Load reflects fitness which is built over a longer period of time&amp;rdquo;. The predictable part of the chart:</description>
+    </item>
+    
+    <item>
+      <title>Training &amp; Racing (Pacing)</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-pacing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-pacing/</guid>
+      <description>This is standard for training planning tools. Each athlete sets the zones differently, I do the same for me. Individual zone settings for each discipline for up to seven zones. Once done each hr, pace or power change gets automatically derived from individual test results and pushed to #mytrainingplanning sessions in the training libraries.
+The small diagrams at the bottom indicate and help tracking the progress of test results.</description>
+    </item>
+    
+    <item>
+      <title>Training &amp; Racing (Tests)</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-tests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/training-racing-tests/</guid>
+      <description>Significant changes per discipine based on tests are maintained here. The latest results are pushed automatically to #mytrainingplanning libraries or towards the Training &amp;amp; Racing Pacing zones.
+The small diagrams at the top indicate and help tracking the progress of test results.</description>
     </item>
     
     <item>
@@ -115,7 +216,7 @@ Red line: ATL &amp;ldquo;Acute Training Load assumes fatigue from the most recen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/trainingslibrary/</guid>
-      <description>Maximum level of flexibility My training library is made to start super simple, to grown steady over the time with a maximum level of flexibility for all my bike, run or strength training sessions. The creamy cherry on the lemon cake is the individual usage of all my Pacing&amp;amp;Racing parameters like heartrate, pace or power thresholds which are being adjusted to each need of a dedicated training session.
+      <description>Maximum level of flexibility My #mytrainingplanning library is made to start super simple, grown steady over the time with a maximum level of flexibility for all my bike, run or strength training sessions. The creamy cherry on the lemon cake is the individual usage of all my Pacing&amp;amp;Racing zone parameters like heartrate, pace or power thresholds which are being adjusted to each need of a dedicated training session.
 Some key assets: When building up such an individual training library categorization become a central component as reports being generated with this meta information.</description>
     </item>
     
@@ -125,7 +226,7 @@ Some key assets: When building up such an individual training library categoriza
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/trainingslibrary-swim/</guid>
-      <description>Swim Library Puzzle For discipline swimming an individual planning tool inside #mytrainingplanning got developed. This tooling is like a small puzzle maximum up to 5 pieces per each training session which can be picked from this underlaying swim library.
+      <description>Swim Library Puzzle For the discipline swimming an individual tool inside #mytrainingplanning got developed. This tooling is like a small puzzle maximum up to 5 pieces per each training session which can be picked from this underlaying swim library.
 Beside several categorizing options, like session types or when´s the best point in time during a season to plan with this one, there is also a calculation for the intensity based on my current trainingzones for swimming.</description>
     </item>
     
