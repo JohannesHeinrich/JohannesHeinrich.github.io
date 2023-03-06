@@ -6,7 +6,34 @@
     <description>Recent content on johannes-heinrich.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesheinrich.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.johannesheinrich.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allgäu Triathlon Classic</title>
+      <link>https://www.johannesheinrich.de/finished/2022-kult-allgaeu-triathlon-classic/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/finished/2022-kult-allgaeu-triathlon-classic/</guid>
+      <description>Ein 9 Euro Ticket Rennwochenende. Classic. Kult seit 1983. So is es.</description>
+    </item>
+    
+    <item>
+      <title>Ultra-Distance Cycling: Solo 300km&#43;</title>
+      <link>https://www.johannesheinrich.de/finished/2021-ultra-distance-cycling-solo-300km/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/finished/2021-ultra-distance-cycling-solo-300km/</guid>
+      <description>Ein Ultra-Distance Cycling Solo Event: 300km+. Das hatte ich schon länger auf der Liste. Ein einzigartiges 2021 perfekt um das ganz entspannt zu machen. Bis 200+ fix und zügig, bei 130 tats mal weh. Die letzten 100 einfach gar voll gemacht.</description>
+    </item>
+    
+    <item>
+      <title>Ultra-Distance Cycling: Group Ride 250km&#43;</title>
+      <link>https://www.johannesheinrich.de/finished/2021-ultra-distance-cycling-250km/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/finished/2021-ultra-distance-cycling-250km/</guid>
+      <description>Flagge ich mal als &amp;ldquo;C&amp;rdquo;-Wettkampf, seit langem mal wieder eine richtig geile 250+ Runde.</description>
+    </item>
+    
     <item>
       <title>Long-distance Triathlon &amp; The Bike Split - Pacing for competitive Age-Groupers and for Pros!</title>
       <link>https://www.johannesheinrich.de/posts/long-distance-triathlon-ironman-pacing-bike-split/</link>
@@ -207,6 +234,32 @@ Ich bin zufrieden. Wirklich! Ich bin zuversichtlich und freue mich auf 2018.</de
     </item>
     
     <item>
+      <title>Ironman 70.3 - Zell am See</title>
+      <link>https://www.johannesheinrich.de/finished/2016-im703-zell-am-see/</link>
+      <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/finished/2016-im703-zell-am-see/</guid>
+      <description>Ironman 70.3 Premiere. Sehr happy gefinished zu haben. Magen, Dixie, Krämpfe! Einiges dabei beim ersten 70.3</description>
+    </item>
+    
+    <item>
+      <title>40. Giro delle Dolomiti 2016</title>
+      <link>https://www.johannesheinrich.de/finished/2016-giro-delle-dolomiti/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/finished/2016-giro-delle-dolomiti/</guid>
+      <description>Etappe 5
+Il mitico Passo Stelvio / Das legendäre Stilfserjoch
+km.63,2 dsl./Hm. m. 1851
+Etappe 6
+Dalla Val di Tires alla Val di S. Nicolò / Vom Tiersertal bis zum S. Nicolò Tal
+km. 140,2 dsl. m.2128
+Etappe 7
+Colle / Kohlern
+km.65,8 dsl./Hm. m. 1380</description>
+    </item>
+    
+    <item>
       <title>Ötztaler Radmarathon – Realistische Zielzeit. Eine Prognose. Meine Strategie!</title>
       <link>https://www.johannesheinrich.de/posts/oetztaler-radmarathon-prognose/</link>
       <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
@@ -244,13 +297,13 @@ Ich bin zufrieden. Wirklich! Ich bin zuversichtlich und freue mich auf 2018.</de
     </item>
     
     <item>
-      <title>Data Sync from and to Strava via Intervals.icu</title>
+      <title>Data Hub &amp; Personal Diary</title>
       <link>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</guid>
-      <description>Strava as my central Data Hub Once an activity got uploaded to Strava it gets synced to #mytrainingplanning in an automated fashion. It takes an extra route through Interval.icu nowerdays. I have to do nothing more than just ride, swim or run, record and get it uploaded to Strava.
-Automated renaming at Strava If wanted and configured, it will also automatically rename all my current season activities back to Strava, update the activity names and description.</description>
+      <description>Data Hub Since I migrated to Intervals.icu, it acts as #mytrainingplanning central data hub. Intervals.icu can connect to the most relevant sport platforms and syncs recorded sessions automatically from there. The platform is also capable of dealing with all kind of data which are recorded during a training session. Strava has its limits or does not want to offer it. Don´t know.
+Personal Diary Still, all activities get uploaded to Strava as it is great to use for personal diary reasons.</description>
     </item>
     
     <item>

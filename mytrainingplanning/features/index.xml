@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language><atom:link href="https://www.johannesheinrich.de/mytrainingplanning/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Sync from and to Strava via Intervals.icu</title>
+      <title>Data Hub &amp; Personal Diary</title>
       <link>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</guid>
-      <description>Strava as my central Data Hub Once an activity got uploaded to Strava it gets synced to #mytrainingplanning in an automated fashion. It takes an extra route through Interval.icu nowerdays. I have to do nothing more than just ride, swim or run, record and get it uploaded to Strava.
-Automated renaming at Strava If wanted and configured, it will also automatically rename all my current season activities back to Strava, update the activity names and description.</description>
+      <description>Data Hub Since I migrated to Intervals.icu, it acts as #mytrainingplanning central data hub. Intervals.icu can connect to the most relevant sport platforms and syncs recorded sessions automatically from there. The platform is also capable of dealing with all kind of data which are recorded during a training session. Strava has its limits or does not want to offer it. Don´t know.
+Personal Diary Still, all activities get uploaded to Strava as it is great to use for personal diary reasons.</description>
     </item>
     
     <item>
