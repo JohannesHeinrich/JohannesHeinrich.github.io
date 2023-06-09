@@ -297,12 +297,22 @@ km.65,8 dsl./Hm. m. 1380</description>
     </item>
     
     <item>
+      <title>Acute Chronic Workload Ratio / Chronic Intensity Load</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/acwr-cil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/acwr-cil/</guid>
+      <description>Chronic Intensity Load, CIL (1st/half) A newer parameter to measure Training Load based on the Intensity Factor. The Chronic Intensity Factor, CIL, tells how hard a session was relative to the threshold power. Intensity Factor is an option to measure training stress exclusive of duration as length of a training session is not always key to success. The CIL is not a replacement for the CTL it complements.
+Above Red Line: Indicates a relative high intensity Between Red and Green Line: Bandwidth for rather normal training intensities Below Green Line: Indicates a relative low intensity Acute Chronic Workload Ratio, ACWR (2nd/half) The Acute Chronic Workload Ratio, ACWR, shall be used to help predicting and indicating injury risks by calculating the ratio between Acute Chronic Workload, performed over the past 7 days, and the Chronic Training Load.</description>
+    </item>
+    
+    <item>
       <title>Data Hub &amp; Personal Diary</title>
       <link>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.johannesheinrich.de/mytrainingplanning/features/data-sync/</guid>
-      <description>Data Hub Since I migrated to Intervals.icu, it acts as #mytrainingplanning central data hub. Intervals.icu can connect to the most relevant sport platforms and syncs recorded sessions automatically from there. The platform is also capable of dealing with all kind of data which are recorded during a training session. Strava has its limits or does not want to offer it. Don´t know.
+      <description>Data Hub Since I migrated to Intervals.icu, it acts as #mytrainingplanning central data hub. Intervals.icu can connect to the most relevant sport platforms and syncs recorded sessions automatically from there. The platform is also capable of dealing with all kind of data which are recorded during a training session. Strava has its limits.
 Personal Diary Still, all activities get uploaded to Strava as it is great to use for personal diary reasons.</description>
     </item>
     
@@ -421,6 +431,16 @@ Power Load The 1st top section highlights the FTP section: This reflects the las
     </item>
     
     <item>
+      <title>Running Mileage / Long Runs</title>
+      <link>https://www.johannesheinrich.de/mytrainingplanning/features/run-mileage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.johannesheinrich.de/mytrainingplanning/features/run-mileage/</guid>
+      <description>Running Mileage / Long Runs An overview to display:
+The weekly distance of all trained and planned runs Highlightling the amount of trained and planned long runs The number of trained and planned long runs The distance when a run is considered as a long run can be configured.</description>
+    </item>
+    
+    <item>
       <title>Sport Specific Distribution</title>
       <link>https://www.johannesheinrich.de/mytrainingplanning/features/distribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -488,7 +508,7 @@ The seasonal view is too much when planning concretely the next days or weeks. F
       <description>This is the seasonal view.
 Beside the planning this is potentially the most important diagram which calculates and displays the most important KPIs which are required for #mytrainingplanning.
 Fitness Charts (1st/third) The classical part of the chart:
-Red line: ATL &amp;ldquo;Acute Training Load assumes fatigue from the most recent training load&amp;rdquo;. Blue line: CTL &amp;ldquo;Chronic Training Load reflects fitness which is built over a longer period of time&amp;rdquo;. The predictable part of the chart:</description>
+Red line: ATL &amp;ldquo;Acute Training Load assumes fatigue from the most recent training load&amp;rdquo;. Green line: CTL &amp;ldquo;Chronic Training Load reflects fitness which is built over a longer period of time&amp;rdquo;. The predictable part of the chart:</description>
     </item>
     
     <item>
