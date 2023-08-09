@@ -55,6 +55,7 @@
     <div class="container animated zoomIn fast">
         
 <h1>Golden Cheetah  Garmin Connect - Download, archive, cloud-backup and auto-import your activities!</h1>
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/OLu6KcVXoEo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
@@ -66,11 +67,11 @@
 <li>As Garmin does also not offer alternatives the chances for a new Golden Cheetah feature are really low.</li>
 </ol>
 <p>But there are tons of alternatives and workarounds. Here is mine.</p>
-<h1 id="download-archive-backup-auto-import">Download, archive, backup, auto-import!</h1>
+<h2 id="download-archive-backup-auto-import">Download, archive, backup, auto-import!</h2>
 <p>Apple claims writing a shell script is like riding a bike: <em>„You fall off and scrape your knees a lot at first. With a bit more experience, you become comfortable riding them around…“</em> Awesome! For the rest I totally agree. <em>„Shell scripting is perfect for creating small pieces of code that connect other tools together.“</em></p>
-<h2 id="tooling">Tooling</h2>
+<h3 id="tooling">Tooling</h3>
 <p>Before we are diving into details some insights on my tooling: Mac user, running their latest OSX. Additional to that my preferred cloud storage is Google Drive. The latter would not make any difference to a Dropbox, Box.com or another typical cloud storage.</p>
-<h3 id="what-else-you-need">What else you need</h3>
+<h4 id="what-else-you-need">What else you need</h4>
 <p>If it did not yet happen you need to download the following:</p>
 <ul>
 <li>[<a href="http://goldencheetah.org/">Golden Cheetah</a>]</li>
@@ -78,9 +79,9 @@
 <li>[<a href="https://github.com/JohannesHeinrich/Golden-Cheetah-Garmin-Connect/blob/master/sport.sh">My shell script</a>] Continue reading for details.</li>
 <li>[<a href="https://github.com/johannesh83/garmin-connect-export">Download script for Garmin Connect data</a>]</li>
 </ul>
-<h2 id="initial-configuration">Initial configuration</h2>
+<h3 id="initial-configuration">Initial configuration</h3>
 <p>Follow these steps for the initial configuration.</p>
-<h3 id="folder-structure">Folder structure</h3>
+<h4 id="folder-structure">Folder structure</h4>
 <p>If you decide to create these folders in your preferred cloud storage, for example a Google Drive, they get synced automatically in the background from your local client to your cloud storage.</p>
 <p><img src="GoldenCheeath-Archive.jpg" alt="Overview of all important folders"></p>
 <ul>
@@ -88,7 +89,7 @@
 <li>Another one for your Golden Cheetah Athletes Library: <em>~/Documents/GoldenCheetah/AthleteLibrary/Johannes/</em></li>
 <li>And another one for your exports from Garmin Connect to auto-import them to Golden Cheetah: <em>~/GoogleDrive/Sport/Garmin/Johannes/</em></li>
 </ul>
-<h3 id="golden-cheetah">Golden Cheetah</h3>
+<h4 id="golden-cheetah">Golden Cheetah</h4>
 <p>Configuring our awesome performance software step by step.</p>
 <ol>
 <li>Unzip and install Golden Cheetah.</li>
@@ -103,7 +104,7 @@ Open <em>Preference</em> &gt; <em>General</em> &gt; there it is. Save it.</li>
 Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>. Save it.</li>
 <li>That´s it for Golden Cheetah. Close it.</li>
 </ol>
-<h4 id="my-shell-script">My shell script</h4>
+<h2 id="my-shell-script">My shell script</h2>
 <p>Copy content, paste content and save as <strong>sport.sh</strong> file.</p>
 <pre><code>	#################
 	# My parameters #
@@ -183,7 +184,7 @@ Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>.
 	# move previous files to archive
 	mv $mygarminconnectexportsfolder/*.fit $mygarminconnectexportsfolder/$todaysyear/&lt;/pre&gt;
 </code></pre>
-<h4 id="setting-parameters">Setting parameters</h4>
+<h3 id="setting-parameters">Setting parameters</h3>
 <ol>
 <li>Set your Garmin Connect username:<br>
 <em>mygarminusername=“yourusername“</em></li>
@@ -200,7 +201,7 @@ Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>.
 <li>Reference to your Garmin Connect export folder:<br>
 <em>mygarminconnectexportsfolder=(~/GoogleDrive/Sport/GoldenCheetah/GarminConnectExports/Johannes/)</em></li>
 </ol>
-<h4 id="what-the-rest-does">What the rest does</h4>
+<h3 id="what-the-rest-does">What the rest does</h3>
 <p>The following section explains in detail what the rest of the script does. But first: You don´t have to adjust anything else there. Everything got already configured with setting the parameters.</p>
 <ol>
 <li>Downloads activities from Garmin Connect</li>
@@ -233,22 +234,22 @@ Go to <em>Preference</em> &gt; <em>General</em> &gt; Tab: <em>auto imports</em>.
 <li>Open Golden Cheetah.</li>
 <li>Backup recovered.</li>
 </ol>
-<h2 id="disclaimer">DISCLAIMER</h2>
-<h3 id="no-guarantee">No Guarantee</h3>
+<h2 id="disclaimer--license">Disclaimer &amp; License</h2>
+<p><strong>No Guarantee</strong></p>
 <p>This script does NOT guarantee to get all your data or even download it correctly. Against my Garmin Connect account it works quite fine and smooth, but different Garmin Connect account settings or different data types could potentially cause problems.</p>
-<h3 id="garmin-connect-api">Garmin Connect API</h3>
+<p><strong>Garmin Connect API</strong></p>
 <p>This is NOT an official feature of Garmin Connect, Garmin may very well make changes to their APIs that breaks this script (and they certainly did since this project got created for several times).</p>
-<h3 id="golden-cheetah-1">Golden Cheetah</h3>
+<p><strong>Golden Cheetah</strong></p>
 <p>This is NOT an official feature of Golden Cheetah, Golden Cheetah may very well make changes that breaks this script.</p>
-<h3 id="this-script-is-for-personal-use-only">THIS SCRIPT IS FOR PERSONAL USE ONLY</h3>
+<p><strong>THIS SCRIPT IS FOR PERSONAL USE ONLY</strong></p>
 <p>It simulates a standard user session (i.e., in the browser), logging in using cookies and an authorization ticket. This makes the script pretty brittle. If you’re looking for a more reliable option, particularly if you wish to use this for some production service, Garmin does offer a paid API service.</p>
-<h3 id="security-disclaimer">Security Disclaimer</h3>
+<p><strong>Security Disclaimer</strong></p>
 <p>The way as the shell script is described has litte to no change of running securely. Passwords are stored plain in the script itself. It definitely has a lot of room for improvements. My intention is to keep it as simple and pragmatic for you. That is the basis to adjust it according your personal paranoia level. The most secure way would be to type it in every time you run the script.</p>
-<h2 id="license">License</h2>
+<p><strong>License</strong></p>
 <p><a href="https://github.com/JohannesHeinrich/Golden-Cheetah-Garmin-Connect/blob/master/LICENSE">MIT</a> © 2018 Johannes Heinrich</p>
 <h2 id="feedback">Feedback</h2>
-<h3 id="contributions">Contributions</h3>
 <p>Contributions are warmly welcome, particularly if this script stops working with Garmin Connect. You may consider opening a GitHub issue first. New features, however simple, are encouraged. Other than that, thx for using this script.</p>
+
 
 
 <br>
